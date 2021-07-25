@@ -2,6 +2,9 @@
 - Productively is a productivity app on steroids. Which not only takes care of your productivity but also takes care of your mental health.
 - Productively is created by taking into consideration various scientific techniques to provide users what they need nothing more nothing less.
 
+## Intital Looks (development stage)
+![Image](https://github.com/pratik-codes/Productively/blob/main/Screenshot%202021-07-25%20185730.jpg)
+
 ## Tech-stack
 - MRNN - MongoDB, Reactjs(Typescript), Nodejs(Nestjs-Typescript) 
 
